@@ -21,5 +21,10 @@ public class ManualTest {
 	public void nonfunctional() {
 		System.out.println("this is nonfunctional testing");
 	}
+	@Test
+	public void system() {
+		System.out.println("this is system testing");
+	}
+
 
 }

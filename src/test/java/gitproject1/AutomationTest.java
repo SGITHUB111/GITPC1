@@ -12,6 +12,8 @@ public class AutomationTest {
 	@Test
 	public void appium() {
 		System.out.println("this is appium");
+		System.out.println("this is appium1");
+		System.out.println("this is appium2");
 	}
 	@Test
 	public void restAssured() {
