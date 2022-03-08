@@ -17,5 +17,9 @@ public class ManualTest {
 	public void functional() {
 		System.out.println("this is functional testing");
 	}
+	@Test
+	public void nonfunctional() {
+		System.out.println("this is nonfunctional testing");
+	}
 
 }
