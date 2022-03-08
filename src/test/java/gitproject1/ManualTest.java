@@ -24,6 +24,8 @@ public class ManualTest {
 	@Test
 	public void system() {
 		System.out.println("this is system testing");
+		System.out.println("this is system testing2");
+		System.out.println("this is system testing3");
 	}
 
 
